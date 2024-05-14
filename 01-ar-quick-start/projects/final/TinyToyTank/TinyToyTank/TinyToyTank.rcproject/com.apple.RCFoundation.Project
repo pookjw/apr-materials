@@ -68,7 +68,7 @@
                                         }
                                       },
                                       "identifier" : "FB518A54-05F6-49E7-AE10-9C9B28B13ABC",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
@@ -217,7 +217,7 @@
                                         }
                                       },
                                       "identifier" : "6764421B-AFB5-45AC-99DD-5FA0E8EEC3CD",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
@@ -366,7 +366,7 @@
                                         }
                                       },
                                       "identifier" : "7C175F96-C660-4AD5-93FE-5D5DE4B9A0F1",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
@@ -509,7 +509,7 @@
                                         }
                                       },
                                       "identifier" : "CE7FA1CF-F81B-4D6D-AACA-FFB383149346",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
@@ -658,7 +658,7 @@
                                         }
                                       },
                                       "identifier" : "CB535C22-F03C-49CA-811E-50FF7092658D",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
@@ -807,7 +807,7 @@
                                         }
                                       },
                                       "identifier" : "23CDA988-ECDC-4592-A4AF-A255C31872D8",
-                                      "isEnabled" : true
+                                      "isEnabled" : false
                                     }
                                   ],
                                   "__version" : 1
